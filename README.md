@@ -1,3 +1,5 @@
+https://youtrack.jetbrains.com/issue/CWM-9663/Cutting-text-does-not-work-if-Code-With-Me-is-enabled#focus=Comments-27-10651766.0-0
+https://youtrack.jetbrains.com/issue/CWM-9663/Cutting-text-does-not-work-if-Code-With-Me-is-enabled#focus=Comments-27-10658067.0-0
 # .github
 > Cloudflare's template for open source community resources
 
